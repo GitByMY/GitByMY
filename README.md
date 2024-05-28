@@ -9,10 +9,10 @@
 <!-- About Me -->
 ## About Me 🧑‍💻
 
-- 🌱 I’m currently learning **Bash Script**
-- 💬 Ask me about **Research & Analytics**
+- 🌱 I’m currently learning **<Technology/Framework>**
+- 💬 Ask me about **<Your Expertise>**
 - 📫 How to reach me: **my2386@srmist.edu.in**
-- ⚡ Fun fact: **Earth isn't a sphere!**
+- ⚡ Fun fact: **<Interesting Fact About You>**
 
 <!-- Languages and Tools -->
 ## Languages and Tools 🛠️
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitByMY&layout=compact&theme=blue-green" alt="Top Languages by Repository" />
 </p>
 
-
+<!-- Contact Me -->
 ## Contact Me 📬
 
 <p align="center">
