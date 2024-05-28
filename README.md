@@ -9,10 +9,10 @@
 <!-- About Me -->
 ## About Me 🧑‍💻
 
-- 🌱 I’m currently learning **<Technology/Framework>**
-- 💬 Ask me about **<Your Expertise>**
+- 🌱 I’m currently learning **Bash Scripting**
+- 💬 Ask me about **Research & Analytics**
 - 📫 How to reach me: **my2386@srmist.edu.in**
-- ⚡ Fun fact: **<Interesting Fact About You>**
+- ⚡ Fun fact: **Earth isn't a sphere!**
 
 <!-- Languages and Tools -->
 ## Languages and Tools 🛠️
