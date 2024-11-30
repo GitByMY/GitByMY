@@ -26,37 +26,3 @@
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="margin: 10px;"/>
 </p>
-
-<!-- GitHub Stats -->
-## GitHub Stats 📊
-
-<div align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=GitByMY&theme=blue-green&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GitByMY&show_icons=true&theme=blue-green" alt="GitHub Stats" width="48%" />
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitByMY&theme=blue-green" alt="GitHub Streak" width="48%" />
-</div>
-
-<!-- Top Languages by Repository -->
-## Top Languages by Repository 📚
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitByMY&layout=compact&theme=blue-green" alt="Top Languages by Repository" />
-</p>
-
-<!-- Contact Me -->
-## Contact Me 📬
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manmohanyadav777/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin: 10px;"/>
-  </a>
-  <a href="mailto:my2386@srmist.edu.in" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" style="margin: 10px;"/>
-  </a>
-</p>
