@@ -9,7 +9,7 @@
 <!-- About Me -->
 ## About Me 🧑‍💻
 
-- 🌱 I’m currently learning **Bash Scripting**
+- 🌱 I’m currently learning **Offensive Security**
 - 💬 Ask me about **Research & Analytics**
 - 📫 How to reach me: **my2386@srmist.edu.in**
 - ⚡ Fun fact: **Earth isn't a sphere!**
